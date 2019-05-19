@@ -1,0 +1,14 @@
+C:\Users\MetalEngine\source\repos\PortFinder\PortFinder\bin\Debug\PortFinder.exe.config
+C:\Users\MetalEngine\source\repos\PortFinder\PortFinder\bin\Debug\PortFinder.exe
+C:\Users\MetalEngine\source\repos\PortFinder\PortFinder\bin\Debug\PortFinder.pdb
+C:\Users\MetalEngine\source\repos\PortFinder\PortFinder\obj\Debug\PortFinder.csprojAssemblyReference.cache
+C:\Users\MetalEngine\source\repos\PortFinder\PortFinder\obj\Debug\PortFinder.csproj.CoreCompileInputs.cache
+C:\Users\MetalEngine\source\repos\PortFinder\PortFinder\obj\Debug\PortFinder.exe
+C:\Users\MetalEngine\source\repos\PortFinder\PortFinder\obj\Debug\PortFinder.pdb
+C:\Users\MetalEngine\source\repos\onderBlog\onderBlog\Repo\PortFinder\PortFinder\bin\Debug\PortFinder.exe.config
+C:\Users\MetalEngine\source\repos\onderBlog\onderBlog\Repo\PortFinder\PortFinder\bin\Debug\PortFinder.exe
+C:\Users\MetalEngine\source\repos\onderBlog\onderBlog\Repo\PortFinder\PortFinder\bin\Debug\PortFinder.pdb
+C:\Users\MetalEngine\source\repos\onderBlog\onderBlog\Repo\PortFinder\PortFinder\obj\Debug\PortFinder.csprojAssemblyReference.cache
+C:\Users\MetalEngine\source\repos\onderBlog\onderBlog\Repo\PortFinder\PortFinder\obj\Debug\PortFinder.csproj.CoreCompileInputs.cache
+C:\Users\MetalEngine\source\repos\onderBlog\onderBlog\Repo\PortFinder\PortFinder\obj\Debug\PortFinder.exe
+C:\Users\MetalEngine\source\repos\onderBlog\onderBlog\Repo\PortFinder\PortFinder\obj\Debug\PortFinder.pdb
